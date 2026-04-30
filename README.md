@@ -34,9 +34,6 @@ A modular and scalable **React + Vite e-commerce frontend** with category-based 
 
 ---
 
-
----
-
 ## 🧠 Application Flow
 
 ### Routing
